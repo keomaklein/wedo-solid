@@ -1,7 +1,8 @@
 # wedo-solid
 
 ## Orientação a objetos
-	Nesta aula, aprendemos:
+Nesta aula, aprendemos:
+
 ### Coesão:
 Uma classe coesa faz bem uma única coisa
 Classes coesas não devem ter várias responsabilidades
